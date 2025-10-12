@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<h3>"Always building, always learning."</h3>
+<h3 align="center">"Always building, always learning."</h3>
 <p align="left"><br><br>I'm AbdElrhman Mohamed, a Computer Science professional who's genuinely excited about building things that work.<br>Currently diving deep into full-stack web development because I love the challenge of making both the user experience smooth and the backend rock-solid. My go-to tools right now are React.js, Django, Django REST Framework, .NET Core, and Entity Framework – always learning something new to add to the mix.<br>I'm constantly working on projects, taking courses, and doing internships to turn what I learn into actual solutions. What drives me most is that moment when everything clicks and you've built something that actually helps people.<br>Looking to connect with other developers and teams who value good code, continuous learning, and getting stuff done.</p>
 
 ###
