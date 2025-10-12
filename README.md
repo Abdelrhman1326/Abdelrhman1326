@@ -40,8 +40,6 @@
   <img width="12" />
   <img src="http://caktusgroup.com/blog/2018/02/26/basics-django-rest-framework/cover-basics-django-rest-framework.png" height="40" alt="django rest-framework logo"  />
   <img width="12" />
-  <div style="color: red; font-weight: bold;">DRF</div>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
