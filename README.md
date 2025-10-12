@@ -58,9 +58,14 @@
 ###
 
 <h2 align="center">My most loved IDEs</h2>
+
+###
+
+<div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" />
   <img width="16" />
-###
+</div>
+
 
 <h2></h2>
 <h2 align="center">I am always...</h2>
