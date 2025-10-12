@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm AbdElrhman, a Software Engineer specializing in full-stack development, with a strong focus on the backend.</h3>
+<h3 align="left">A Software Engineer specializing in full-stack development.</h3>
 
 ###
 
