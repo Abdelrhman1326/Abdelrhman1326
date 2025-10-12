@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://pngimg.com/uploads/linux/linux_PNG9.png" height="40" alt="Linux" />
+  <img src="https://banner2.cleanpng.com/20180615/fyx/aa7z9a986.webp" height="40" alt="Ubuntu" />
   <img width="12" />
 </div>
 
