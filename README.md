@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">My Skills and Tools</h2>
 
 ###
 
