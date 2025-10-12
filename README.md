@@ -6,7 +6,8 @@
 
 ###
 
-<h2 align="center">About me</h2>
+
+<h1 align="center">About me</h1>
 
 ###
 
