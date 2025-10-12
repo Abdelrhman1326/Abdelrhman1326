@@ -3,7 +3,6 @@
 
 ###
 
-
 <h1 align="center">About me</h1>
 
 ###
