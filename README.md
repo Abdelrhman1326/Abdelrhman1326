@@ -1,5 +1,5 @@
-<p align="center">Hello World!<p>
-<h1 align="center">{ I am AbdElrhman! }</h1>
+<h1 align="center">Hello World!<h1>
+<h2 align="center">{ I am AbdElrhman! }</h2>
 
 ###
 
