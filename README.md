@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">My tools</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
