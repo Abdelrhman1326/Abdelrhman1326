@@ -1,6 +1,7 @@
-<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwxaHpiN3d2b2l6dTh1d2N5NzZkZGRyOXlwYXRuMDMxb3o1b2Z1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwxaHpiN3d2b2l6dTh1d2N5NzZkZGRyOXlwYXRuMDMxb3o1b2Z1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" />
+</p>
 <h1 align="center">{ I am AbdElrhman! }</h1>
-
 
 ###
 
