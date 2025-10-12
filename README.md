@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A Software Engineer specializing in full-stack development.</h3>
+<p align="left">A Software Engineer specializing in full-stack development.</p>
 
 ###
 
