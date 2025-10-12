@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color: red;">{</span> Hey, What's up? <span style="color: red;">}</span></h1>
+<h1 align="center"><font color="red">{</font> Hey, What's up? <font color="red">}</font></h1>
 
 ###
 
