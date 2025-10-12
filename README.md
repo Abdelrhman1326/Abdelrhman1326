@@ -74,7 +74,7 @@
   <img width="12" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplNnpnMzNwNTRrYjd6N29sYjE2OTlsdXVqbjZ4b2poYXdveTB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif" height="60" alt="Intellij" height="60" />
   <img width="12" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="60" alt="Vscode" height="60" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="60" alt="Vscode" height="50" />
   <img width="12" />
   
 </div>
