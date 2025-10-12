@@ -53,9 +53,9 @@
 </div>
 
 <h2></h2>
+<h2 align="center">I am always...</h2>
 <p align="center">
-    <h2 align="center">I am always...</h2>
-    <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5ZXJ3N3VqN2ZtN3ZyNHV4MWIzdjR3eGZrYngyaHJyeTgyNnRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="Coding Gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5ZXJ3N3VqN2ZtN3ZyNHV4MWIzdjR3eGZrYngyaHJyeTgyNnRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="Coding Gif" width="400"/>
 </p>
 
 ###
