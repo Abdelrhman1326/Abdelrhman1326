@@ -62,6 +62,8 @@
 ###
 
 <div align="left">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="60" alt="Vscode" height="40" />
+  <img width="12" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" height="60" />
   <img width="12" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxc3hxdm5yN2pqdmg4NDRtNDNkcXpxM3RpcnBrNnlrazlzcGN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0ZKDGWWimlunrp82XU/giphy.gif" height="60" alt="Webstorm" height="60" />
@@ -73,8 +75,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4ZmU3N3B4NmNvbnl0ZjdudGpwOTMxYmg0eXkzN3hleHRvMDU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" height="60" alt="Clion" height="60" />
   <img width="12" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplNnpnMzNwNTRrYjd6N29sYjE2OTlsdXVqbjZ4b2poYXdveTB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif" height="60" alt="Intellij" height="60" />
-  <img width="12" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="60" alt="Vscode" height="40" />
   <img width="12" />
   
 </div>
