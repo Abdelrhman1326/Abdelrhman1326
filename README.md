@@ -63,7 +63,9 @@
 
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" />
-  <img width="16" />
+  <img width="12" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxc3hxdm5yN2pqdmg4NDRtNDNkcXpxM3RpcnBrNnlrazlzcGN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0ZKDGWWimlunrp82XU/giphy.gif" alt="Webstorm" />
+  <img width="12" />
 </div>
 
 
