@@ -1,4 +1,4 @@
-<h1 align="center">{ Hello World! I am AbdElrhman }</h1>
+<h1 align="center">Hello World! I am AbdElrhman</h1>
 <p align="center">A Software Engineer specializing in full-stack development.</p>
 
 ###
