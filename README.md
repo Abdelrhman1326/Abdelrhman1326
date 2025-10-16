@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo"  />
   <img width="12" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" alt="django logo"  />
+  <img width="12" />
   <img src="http://caktusgroup.com/blog/2018/02/26/basics-django-rest-framework/cover-basics-django-rest-framework.png" height="40" alt="django rest-framework logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
