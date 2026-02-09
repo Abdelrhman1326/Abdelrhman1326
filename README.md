@@ -73,9 +73,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V5bW53dGEwcGIyenFwNDM2bGlubWZ6d3dsOWRtMmlia3g5YnFpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c616UDimUUfDrRVJWQ/giphy.gif" height="60" alt="Goland" height="60" />
   <img width="12" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4ZmU3N3B4NmNvbnl0ZjdudGpwOTMxYmg0eXkzN3hleHRvMDU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" height="60" alt="Clion" height="60" />
-  <img width="12" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplNnpnMzNwNTRrYjd6N29sYjE2OTlsdXVqbjZ4b2poYXdveTB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif" height="60" alt="Intellij" height="60" />
-  <img width="12" />
   
 </div>
 
