@@ -8,7 +8,7 @@
 ###
 
 <h3 align="center">"Always building, always learning."</h3>
-<p align="center"><br><br>I'm AbdElrhman Mohamed, a Computer Science professional who's genuinely excited about building things that work.<br>Currently diving deep into full-stack web development because I love the challenge of making both the user experience smooth and the backend rock-solid. My go-to tools right now are React.js, Django, Django REST Framework, .NET Core, and Entity Framework – always learning something new to add to the mix.<br>I'm constantly working on projects, taking courses, and doing internships to turn what I learn into actual solutions. What drives me most is that moment when everything clicks and you've built something that actually helps people.<br>Looking to connect with other developers and teams who value good code, continuous learning, and getting stuff done.</p>
+<p align="center"><br><br>I'm AbdElrhman Mohamed, a Computer Science professional who's genuinely excited about building things that work.<br>Currently diving deep into full-stack web development because I love the challenge of making both the user experience smooth and the backend rock-solid. My go-to tools right now are React.js, Django, Django REST Framework, .NET Core, and Entity Framework – always learning something new to add to the mix.<br>I'm constantly working on projects, taking courses, and doing internships to turn what I learn into actual solutions. What drives me most is that moment when everything clicks, and you've built something that actually helps people.<br>Looking to connect with other developers and teams who value good code, continuous learning, and getting stuff done.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="60" alt="Vscode" height="40" />
+  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="60" alt="Vscode" height="40" />
   <img width="12" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" height="60" />
   <img width="12" />
