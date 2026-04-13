@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAABQUlEQVR4AeSQP0vDYBDGn3sVQRel0AbBpIMoCDr6BwSxDuJgqgjiIKKzCE5SBHHq4ODm4KCfwMEhiX9AB2cHBwfBSUwc2gTEzUXyeGnpBxAn8eC4572733vHGfzC/i9MiPVa3i5E7q315k5YkXtghe5dPixPFcL52Uxb0cJ4PnSrmc5H5bnszo2DaXKZwAaIx5QYI1HReA5BF2D2tDaSIs0JsEbBM8hNqDVgbVrS5JH6gFAGtdkXQakN6TuEDsAHGvQAyAnZbgQvqtGABdKhDf1CDAv4oX6pxcWUsosUnapHDTmk8Ykwn9L+VVXdhEEc6y+Tus6ZCD1CVnSbQ5LdNLIOyAXUtHYSO95Wrfcq0WcTjoveTd3xp+NiUKnZwX3i+KXY9neSYjCT2N517PircV+wX7eD0wxquQ5syZ/HPwp/AwAA//8PJKhnAAAABklEQVQDAN8Sdh8jmmY6AAAAAElFTkSuQmCC" height="60" alt="GSAP logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wGdP-ym3kqQopOA9us8nXg.jpeg" height="40" alt="GSAP logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
