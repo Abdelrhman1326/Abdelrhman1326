@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.brandfetch.io/idFBy9QZxG/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="GSAP logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
