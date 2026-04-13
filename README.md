@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/2386673?v=4" height="60" style="margin-top: 20px;" alt="GSAP logo"  />
+<img src="https://avatars.githubusercontent.com/u/2386673?v=4" height="40" alt="GSAP logo" style="vertical-align: middle;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
