@@ -64,7 +64,7 @@
 ###
 
 <div align="left">
-  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="60" alt="Vscode" height="40" />
+  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="Vscode" height="40" />
   <img width="12" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" height="60" />
   <img width="12" />
