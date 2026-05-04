@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" height="35" alt="tailwindcss logo"  />
   <img width="12" />
 <img src="https://avatars.githubusercontent.com/u/2386673?v=4" height="50" alt="GSAP logo" style="vertical-align: middle; transform: scale(1.5);" />
   <img width="12" />
