@@ -63,26 +63,6 @@
 
 ###
 
-<h2 align="center">My most loved IDEs</h2>
-
-###
-
-<div align="left">
-  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="Vscode" height="50" />
-  <img width="12" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhOTg3b3AwM3RmeGhuNGF5ZWV3cXMyMjJkcTJqamNoYW1pM2Z6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYU6YcPE5YlJxh6otp/giphy.gif" height="60" alt="Pycharm" height="60" />
-  <img width="12" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgxc3hxdm5yN2pqdmg4NDRtNDNkcXpxM3RpcnBrNnlrazlzcGN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0ZKDGWWimlunrp82XU/giphy.gif" height="60" alt="Webstorm" height="60" />
-  <img width="12" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMyMG1tYTZ0ZjU4NzNrMnpseDR4MDZ2YWdydHN2d3Y0amJyZGlyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Un9ecvRqXKyYXikiEp/giphy.gif" height="60" alt="Rider" height="60" />
-  <img width="12" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V5bW53dGEwcGIyenFwNDM2bGlubWZ6d3dsOWRtMmlia3g5YnFpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c616UDimUUfDrRVJWQ/giphy.gif" height="60" alt="Goland" height="60" />
-  <img width="12" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4ZmU3N3B4NmNvbnl0ZjdudGpwOTMxYmg0eXkzN3hleHRvMDU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" height="60" alt="Clion" height="60" />
-  
-</div>
-
-
 <h2></h2>
 <h2 align="center">I am always...</h2>
 <p align="center">
