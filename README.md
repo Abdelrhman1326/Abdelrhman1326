@@ -59,8 +59,8 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="45" alt="Linux" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="45" alt="Linux" />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="Linux" />
+  <img width="10" />
 </div>
 
 ###
