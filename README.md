@@ -1,18 +1,18 @@
-<h1 align="center">Hello World! I am AbdElrhman</h1>
-<p align="center">Full-Stack Software Engineer</p>
+<h1>Hello World! I am AbdElrhman</h1>
+<p>Full-Stack Software Engineer</p>
 
 ###
 
-<h1 align="center">About me</h1>
+<h1>About me</h1>
 
 ###
 
-<h3 align="center">"Always building, always learning."</h3>
-<p align="center"><br><br>I'm AbdElrhman Mohamed, a Software Engineer specializing in full-stack web development, clean architecture, and scalable systems.<br>I bridge the gap between high-performance backend infrastructure and responsive, user-centric frontends. My current toolkit includes React.js, Spring Boot, Django, Django REST Framework, .NET Core, PostgreSQL, and Redis. Grounded in solid data structures, algorithms, and software design principles, I focus on turning complex ideas into production-ready software.<br>Driven by creating impactful technical solutions, I am constantly exploring system architecture, design patterns, and microservices communication.<br>Looking to connect with developers and teams who value clean code, continuous learning, and strong engineering fundamentals.</p>
+<h3>"Always building, always learning."</h3>
+<p><br>I'm AbdElrhman Mohamed, a Software Engineer specializing in full-stack web development, clean architecture, and scalable systems.<br>I bridge the gap between high-performance backend infrastructure and responsive, user-centric frontends. My current toolkit includes React.js, Spring Boot, Django, Django REST Framework, .NET Core, PostgreSQL, and Redis. Grounded in solid data structures, algorithms, and software design principles, I focus on turning complex ideas into production-ready software.<br>Driven by creating impactful technical solutions, I am constantly exploring system architecture, design patterns, and microservices communication.<br>Looking to connect with developers and teams who value clean code, continuous learning, and strong engineering fundamentals.</p>
 
 ###
 
-<h2 align="center">My Skills and Tools</h2>
+<h2>My Skills and Tools</h2>
 
 ###
 
@@ -63,9 +63,8 @@
 
 ###
 
-<h2></h2>
-<h2 align="center">I am always...</h2>
-<p align="center">
+<h2>I am always...</h2>
+<p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5ZXJ3N3VqN2ZtN3ZyNHV4MWIzdjR3eGZrYngyaHJyeTgyNnRmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="Coding Gif" width="400"/>
 </p>
 
