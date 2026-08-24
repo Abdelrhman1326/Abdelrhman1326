@@ -59,6 +59,8 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="45" alt="linux logo" />
   <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170912170050" height="45" alt="linux logo" />
+  <img width="10" />
 </div>
 
 ###
