@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="45" alt="linux logo" />
   <img width="10" />
-  <img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="45" alt="linux logo" />
+  <img src="https://cdn.brandfetch.io/idVoqFQ-78/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="linux logo" />
   <img width="10" />
 </div>
 
