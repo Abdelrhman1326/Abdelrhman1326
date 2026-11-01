@@ -37,15 +37,13 @@
   <img width="12" />
   <img src="http://caktusgroup.com/blog/2018/02/26/basics-django-rest-framework/cover-basics-django-rest-framework.png" height="40" alt="django rest-framework logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="cpp logo" />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height="40" alt="postman logo" />
   <img width="12" />
