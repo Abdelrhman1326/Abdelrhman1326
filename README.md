@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20201031132917" height="40" alt="C logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" height="40" alt="C logo" />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height="40" alt="postman logo" />
   <img width="12" />
