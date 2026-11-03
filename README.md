@@ -12,7 +12,7 @@
 
 ###
 
-<h2>My Skills and Tools</h2>
+<h2>Language & Frameworks</h2>
 
 ###
 
@@ -44,10 +44,6 @@
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://static.cdnlogo.com/logos/p/20/postman.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="40" alt="swagger logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
