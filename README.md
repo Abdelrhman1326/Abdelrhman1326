@@ -7,7 +7,15 @@
 
 ###
 
-<p><br>I'm <strong>AbdElrhman Mohamed</strong>, a Software Engineer specializing in full-stack web development, and scalable systems.<br>I bridge the gap between high-performance backend infrastructure and responsive, user-centric frontends. My current toolkit includes React.js, Spring Boot, Django, Django REST Framework, .NET Core, PostgreSQL, and Redis. Grounded in solid data structures, algorithms, and software design principles, I focus on turning complex ideas into production-ready software.<br>I am constantly exploring system architecture, design patterns, and microservices communication, also working on enhancing my low level skills in topics like C programming and memory management.<br>Looking to connect with developers and teams who value clean code, continuous learning, and strong engineering fundamentals.</p>
+<p>
+  I'm <strong>AbdElrhman Mohamed</strong>, a Software Engineer specializing in full-stack web development and scalable systems.
+  <br><br>
+  I bridge the gap between high-performance backend infrastructure and responsive, user-centric frontends. My core engineering toolkit includes <strong>React.js, Spring Boot, Django, DRF, .NET Core, PostgreSQL, and Redis</strong>.
+  <br><br>
+  Grounded in solid data structures, algorithms, and software design principles, I focus on turning complex ideas into clean, production-ready software. Beyond web development, I actively deepen my understanding of <strong>system architecture, design patterns, microservices communication, C programming, and low-level memory management</strong>.
+  <br><br>
+  Looking to connect with developers and teams who value clean code, continuous learning, and strong engineering fundamentals.
+</p>
 
 ###
 
